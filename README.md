@@ -45,7 +45,7 @@ Use the data from the NYC bikesharing program to generate several visualizations
 
 ### Bikesharing report for DesMoines, IA
 
-[link to dashboard](LINK GOES HERE)
+[link to dashboard](https://public.tableau.com/views/Bikesharing_Challenge_Cheryl_Berger/MyBikesharingChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 [link to dashboard](LINK GOES HERE "link to dashboard")
 
 ## Summary
