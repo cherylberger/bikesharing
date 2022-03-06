@@ -24,7 +24,7 @@ Use the data from the NYC bikesharing program to generate several visualizations
     In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
 
   #### Create the Checkout Times by Gender Viz
-  
+  https://github.com/cherylberger/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png
     In this visualization, you’ll graph the length of time that bikes are checked out for each gender.
 
   #### Create the Trips by Weekday for Each Hour Viz
