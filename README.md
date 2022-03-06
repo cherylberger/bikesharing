@@ -32,10 +32,8 @@ Use the data from the NYC bikesharing program to generate several visualizations
     In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
 
   #### Create the Trips by Gender (Weekday per Hour) Viz
-  
+  https://github.com/cherylberger/bikesharing/blob/main/Images/Trips%20by%20Gender_Weekday%20Per%20Hour.png
     In this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
-
-
 
   #### Create the User Trips by Gender by Weekday Viz
   
