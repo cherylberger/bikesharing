@@ -42,7 +42,7 @@ Use the data from the NYC bikesharing program to generate several visualizations
 
   #### Create the User Trips by Gender by Weekday Viz
       **Graph the number of bike trips broken down by gender for each day of the week by each Usertype**
-    ![image](https://github.com/cherylberger/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
+  ![image](https://github.com/cherylberger/bikesharing/blob/main/Images/User%20Trips%20by%20Gender%20by%20Weekday.png)
 
 ### Deliverable 3: Create a Story and Report for the Final Presentation
 
