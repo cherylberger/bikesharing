@@ -2,7 +2,7 @@
 ### Cheryl Berger
 
 ## Overview
-
+Use the data from the NYC bikesharing program to generate several visualizations for the investors of a similar program for the city of Des Moines, Iowa. The data reviewed so far has been useful and most are ready to sign.  However, one of the key stakeholders would like to see an analysis of the bike trips to better before making the investment. The company has provided access to Tabelau software to generate the visualizations and we will use Pandas to perform a data conversion to aid in the analysis. 
 
 ### Reference Files
 
@@ -41,6 +41,17 @@
   
     In this visualization, you'll create a heatmap that shows the number of bike trips broken down by gender for each day of        the week by each Usertype.
 
-### Deliverable 3: Create a Story and Report for the Final Presentation 
+### Deliverable 3: Create a Story and Report for the Final Presentation
+
+### Bikesharing report for DesMoines, IA
+
+[link to dashboard](LINK GOES HERE)
+[link to dashboard](LINK GOES HERE "link to dashboard")
 
 ## Summary
+
+The results suggest the investment in the bikesharing program is likey to be a success in DesMoines IA.  
+
+### Additional Viz 1
+
+### Additional Viz 2
