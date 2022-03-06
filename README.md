@@ -56,7 +56,7 @@ The visulizations created in Deliverable 2 were added to a Tableau Story for eas
 
 ### Bikesharing report for DesMoines, IA
 
-[link to dashboard](https://public.tableau.com/views/Bikesharing_Challenge_Cheryl_Berger/MyBikesharingChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "Link to dashboard")
+[link to dashboard](https://public.tableau.com/views/Bikesharing_Challenge_Cheryl_Berger/MyBikesharingChallengeStory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link "My Bikesharing Challenge Story")
 
 ## Summary
 Judging by the data analyzed above, bike-sharing services are popular among all genders in busy metropolitan areas.  This may be due to the number of tourists, the denseness of traffic on the roads, or availability of parking. The most popular time to use the bike-sharing service is in the late afternoon and early evening. While we have a lot of good information here, there are more analysis that could be performed:
