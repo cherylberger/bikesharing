@@ -20,19 +20,19 @@ Use the data from the NYC bikesharing program to generate several visualizations
 
 ### Deliverable 2: Create Visualizations for the Trip Analysis 
   #### Create the Checkout Times for Users Viz
-    https://github.com/cherylberger/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.png
+    !https://github.com/cherylberger/bikesharing/blob/main/Images/Checkout%20Times%20for%20Users.png
     In this visualization, you’ll graph the length of time that bikes are checked out for all riders.
 
   #### Create the Checkout Times by Gender Viz
-  https://github.com/cherylberger/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png
+  !https://github.com/cherylberger/bikesharing/blob/main/Images/Checkout%20Times%20by%20Gender.png
     In this visualization, you’ll graph the length of time that bikes are checked out for each gender.
 
   #### Create the Trips by Weekday for Each Hour Viz
-  https://github.com/cherylberger/bikesharing/blob/main/Images/Trips%20by%20Weekday%20Per%20Hour.png
+  !https://github.com/cherylberger/bikesharing/blob/main/Images/Trips%20by%20Weekday%20Per%20Hour.png
     In this visualization, you’ll graph the number of bike trips by weekday for each hour of the day as a heatmap.
 
   #### Create the Trips by Gender (Weekday per Hour) Viz
-  https://github.com/cherylberger/bikesharing/blob/main/Images/Trips%20by%20Gender_Weekday%20Per%20Hour.png
+  !https://github.com/cherylberger/bikesharing/blob/main/Images/Trips%20by%20Gender_Weekday%20Per%20Hour.png
     In this visualization, you’ll graph the number of bike trips by gender for each hour of each day of the week as a heatmap.
 
   #### Create the User Trips by Gender by Weekday Viz
